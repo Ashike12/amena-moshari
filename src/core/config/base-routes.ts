@@ -15,7 +15,7 @@ const BASE_ROUTES: IRoute[] = [
     path: ROUTE_PATH.store.path,
     pathMatch: ROUTE_PATH.store.pathMatch,
     exact: true,
-    Component: React.lazy(() => import('@features/store-management/pages/store-management')),
+    Component: React.lazy(() => import('@features/amena-moshari/pages/amena-moshari')),
   },
   {
     title: ROUTE_PATH.wholesalers.title,
