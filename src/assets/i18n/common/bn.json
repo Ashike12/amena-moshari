@@ -47,5 +47,6 @@
   "TOTAL_PAID_AMOUNT": "মোট পরিশোধিত পরিমাণ",
   "TOTAL_DUE_AMOUNT": "মোট বাকি পরিমাণ",
   "CONSUMER": "ক্রেতা",
-  "SEND_A_MESSAGE": "বাকি টাকার বার্তা পাঠান"
+  "SEND_A_MESSAGE": "বাকি টাকার বার্তা পাঠান",
+  "ADD_PRODUCTION": "উৎপাদন যোগ করুন"
 }
